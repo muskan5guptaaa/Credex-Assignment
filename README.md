@@ -4,7 +4,7 @@ This is a **1-page responsive marketing website** built as part of the **Credex 
 
 ## 🌐 Live Site
 
-🔗 [View Demo](https://credex-assignment-ikiau2w5d-muskan-guptas-projects-fce1c342.vercel.app/)
+🔗 [View Demo](https://credex-assignment-pi.vercel.app/)
 
 ---
 
