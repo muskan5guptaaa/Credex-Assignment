@@ -56,13 +56,13 @@ Create a modern, single-page site with:
 ![image](https://github.com/user-attachments/assets/2e6bab7f-b20a-471e-ae48-7d6ee408dd10)
 
 ### 🔻 How It Works  
-![How It Works](![image](https://github.com/user-attachments/assets/0140dcb7-5e52-4491-a171-da890258f682))
+![image](https://github.com/user-attachments/assets/07227def-a77b-435b-ad42-a9304a7d67aa)
 
 ### 🔻 Contact Form  
-![Contact Form](![image](https://github.com/user-attachments/assets/b9700109-d929-479f-9adc-a0e0f45e4cfb))
+![image](https://github.com/user-attachments/assets/dc4f824b-c399-48e4-a3af-a72864371234)
 
 ### 🔻 Why Choose Us or Dummy customer review
-![Reviews](![image](https://github.com/user-attachments/assets/ba292ff0-e8c1-4500-9ee3-3385f64dbb8c))
+![image](https://github.com/user-attachments/assets/5683e4c0-1eb4-431d-bd77-71a31b658f7e)
 
 ---
 
