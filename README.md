@@ -53,7 +53,7 @@ Create a modern, single-page site with:
 ---
 
 ### 🔻 Hero Section  
-![Hero](![image](https://github.com/user-attachments/assets/e8fdad30-11ea-43d4-abcd-0410d3db9d9d))
+![image](https://github.com/user-attachments/assets/2e6bab7f-b20a-471e-ae48-7d6ee408dd10)
 
 ### 🔻 How It Works  
 ![How It Works](![image](https://github.com/user-attachments/assets/0140dcb7-5e52-4491-a171-da890258f682))
